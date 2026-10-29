@@ -4,6 +4,8 @@
 
 A practical reference for **AQL (Assets Query Language)** in Jira Service Management Cloud: the syntax you need day to day, the patterns that come up in real projects, and the traps that cost time.
 
+![Cascading Assets fields with AQL placeholders](docs/overview.png)
+
 > Attribute and object type names below (`Server`, `Owner`, `Status`…) are examples. Replace them with the names from your own schema. Names containing spaces must be wrapped in double quotes.
 
 ## Contents
